@@ -1,6 +1,0 @@
-hello git
-hello Rain
-hhhhhhhhhhhhhhhh
-aaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbb
-测试SSH免密登录
